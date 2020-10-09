@@ -1,0 +1,17 @@
+#like img{
+    cursor: pointer
+}
+#comment{
+    border: thin black solid;
+    width: 1000px;
+}
+#commentuser{
+    font-size: 25pt;
+    height: 200px;
+    width: auto;
+    overflow-y: scroll;
+    border-bottom: black thin solid;
+}
+#commentuser img{
+    height: 50px;width: 50px;
+}

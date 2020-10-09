@@ -1,0 +1,28 @@
+#counter-encounter{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.counter-champion{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    background-color: lightgreen;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.encounter-champion{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    background-color: lightcoral;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.progress {
+    height: 20px;
+    width: 100px;
+}
